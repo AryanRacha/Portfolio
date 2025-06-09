@@ -13,4 +13,3 @@
 
 - [GitHub Profile](https://github.com/aryanracha)
 - [LinkedIn Profile](www.linkedin.com/in/aryan-racha)
-- [Portfolio Site](https://aryanracha.github.io/Portfolio)
