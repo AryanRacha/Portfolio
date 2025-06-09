@@ -1,0 +1,11 @@
+name: Simple CI
+
+on:
+  push:
+
+jobs:
+  success-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Success Message
+        run: echo "✅ CI Pipeline Success! Your push was detected."
